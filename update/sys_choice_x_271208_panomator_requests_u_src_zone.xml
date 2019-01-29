@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_src_zone" table="x_271208_panomator_requests" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_src_zone</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>any</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9be4955db1323005357da75ca9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:30</sys_updated_on>
+            <value>any</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_src_zone</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>inside</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69be4955db1323005357da75ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>inside</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_src_zone</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>outside</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25be4955db1323005357da75ca9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>outside</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_src_zone</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>dmz</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5be4955db1323005357da75ca9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>dmz</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_src_zone</element>
+            <name>x_271208_panomator_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:30</sys_created_on>
+            <sys_id>25be4955db1323005357da75ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_src_zone</sys_name>
+            <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+            <sys_update_name>sys_choice_x_271208_panomator_requests_u_src_zone</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

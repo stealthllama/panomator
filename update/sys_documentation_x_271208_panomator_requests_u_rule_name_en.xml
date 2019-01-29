@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Request" language="en" table="x_271208_panomator_requests">
+    <sys_documentation element="u_rule_name" label="Rule name" language="en" table="x_271208_panomator_requests">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>u_rule_name</element>
             <help/>
             <hint/>
-            <label>Request</label>
+            <label>Rule name</label>
             <language>en</language>
             <name>x_271208_panomator_requests</name>
-            <plural>Requests</plural>
+            <plural>Rule names</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-21 16:07:21</sys_created_on>
-            <sys_id>73b900ebdb3123005357da75ca961931</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Request</sys_name>
+            <sys_created_on>2018-12-31 03:30:58</sys_created_on>
+            <sys_id>863cdf80dbb623005357da75ca9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rule name</sys_name>
             <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
             <sys_policy/>
             <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
-            <sys_update_name>sys_documentation_x_271208_panomator_requests__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_271208_panomator_requests_u_rule_name_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-21 16:35:26</sys_updated_on>
+            <sys_updated_on>2018-12-31 03:30:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

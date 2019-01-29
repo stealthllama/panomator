@@ -6,36 +6,36 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>Firewall rule requests</hint>
+        <hint>Create new firewall rule request</hint>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Requests</mobile_title>
+        <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_271208_panomator_requests</name>
-        <order>900</order>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles>x_271208_panomator.requests_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-11-21 16:07:20</sys_created_on>
+        <sys_created_on>2018-11-21 16:30:18</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ebb9ccabdb3123005357da75ca9619f0</sys_id>
+        <sys_id>f65e846fdb3123005357da75ca96190a</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name>All Requests</sys_name>
+        <sys_name>Firewall Rule Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
-        <sys_update_name>sys_app_module_ebb9ccabdb3123005357da75ca9619f0</sys_update_name>
+        <sys_update_name>sys_app_module_f65e846fdb3123005357da75ca96190a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-29 15:09:47</sys_updated_on>
+        <sys_updated_on>2019-01-29 15:10:13</sys_updated_on>
         <timeline_page/>
-        <title>All Requests</title>
+        <title>Firewall Rule Request</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_application" table="x_271208_panomator_requests" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>any</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29be8955db1323005357da75ca961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>any</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>dns</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5be8955db1323005357da75ca961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>dns</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ftp</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61be8955db1323005357da75ca961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>ftp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ntp</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9be8955db1323005357da75ca96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>ntp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>snmp</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65be8955db1323005357da75ca961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>snmp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ssh</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21be8955db1323005357da75ca961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>ssh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ssl</label>
+            <language>en</language>
+            <name>x_271208_panomator_requests</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9be8955db1323005357da75ca961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+            <value>ssl</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_application</element>
+            <name>x_271208_panomator_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_id>61be8955db1323005357da75ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_application</sys_name>
+            <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+            <sys_update_name>sys_choice_x_271208_panomator_requests_u_application</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
