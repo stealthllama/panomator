@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_src_addr" label="Source address" language="en" table="x_271208_panomator_requests">
+    <sys_documentation element="u_src_address" label="Source address" language="en" table="x_271208_panomator_requests">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_src_addr</element>
+            <element>u_src_address</element>
             <help/>
             <hint/>
             <label>Source address</label>
@@ -9,17 +9,17 @@
             <name>x_271208_panomator_requests</name>
             <plural>Source address</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-28 10:56:29</sys_created_on>
-            <sys_id>51be4955db1323005357da75ca961994</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2019-01-29 22:37:58</sys_created_on>
+            <sys_id>e2d8f435db5723005357da75ca96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Source address</sys_name>
             <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
             <sys_policy/>
             <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
-            <sys_update_name>sys_documentation_x_271208_panomator_requests_u_src_addr_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-28 10:56:29</sys_updated_on>
+            <sys_update_name>sys_documentation_x_271208_panomator_requests_u_src_address_en</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2019-01-29 22:37:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

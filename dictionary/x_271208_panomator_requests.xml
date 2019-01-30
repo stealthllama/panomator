@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="2" type="collection">
+    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="4" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="deny" label="Action" mandatory="true" max_length="40" name="u_action" type="string">
             <choice>
                 <element inactive_on_update="false" label="Deny" sequence="0" value="deny"/>
@@ -39,9 +39,10 @@
                 <element inactive_on_update="false" label="guest" sequence="3" value="guest"/>
             </choice>
         </element>
+        <element label="Requestor" mandatory="true" max_length="32" name="u_requestor" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Rule name" mandatory="true" max_length="40" name="u_rule_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="application-default" label="Service" mandatory="true" max_length="40" name="u_service" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="any" label="Source address" mandatory="true" max_length="40" name="u_src_addr" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="any" label="Source address" mandatory="true" max_length="40" name="u_src_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="any" label="Source user" mandatory="true" max_length="40" name="u_src_user" type="string">
             <choice>
                 <element inactive_on_update="false" label="any" sequence="0" value="any"/>
