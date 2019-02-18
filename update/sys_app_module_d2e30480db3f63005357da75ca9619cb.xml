@@ -6,36 +6,36 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>Firewall rule requests</hint>
+        <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>Requests</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_271208_panomator_requests</name>
-        <order>500</order>
+        <name/>
+        <order>1000</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>system_properties_ui.do?sysparm_title=Panomator Application Properties&amp;sysparm_category=Panomator Properties</query>
         <report/>
         <roles>x_271208_panomator.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-11-21 16:07:20</sys_created_on>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2019-02-18 04:51:30</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ebb9ccabdb3123005357da75ca9619f0</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>All Requests</sys_name>
+        <sys_id>d2e30480db3f63005357da75ca9619cb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
-        <sys_update_name>sys_app_module_ebb9ccabdb3123005357da75ca9619f0</sys_update_name>
+        <sys_update_name>sys_app_module_d2e30480db3f63005357da75ca9619cb</sys_update_name>
         <sys_updated_by>fred.luddy</sys_updated_by>
-        <sys_updated_on>2019-02-18 04:53:34</sys_updated_on>
+        <sys_updated_on>2019-02-18 04:53:19</sys_updated_on>
         <timeline_page/>
-        <title>All Requests</title>
+        <title>Properties</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

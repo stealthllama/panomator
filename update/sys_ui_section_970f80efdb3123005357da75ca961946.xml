@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-29 17:37:07</sys_created_on>
-            <sys_id>13f3ff29db9323005357da75ca9619bf</sys_id>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>76ca4722db5323005357da75ca961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-29 17:37:07</sys_updated_on>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_requestor</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-29 17:37:07</sys_created_on>
-            <sys_id>93f3ff29db9323005357da75ca9619bf</sys_id>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>f6ca4722db5323005357da75ca961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-29 17:37:07</sys_updated_on>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,69 +32,83 @@
             <element>sys_created_on</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-29 17:37:07</sys_created_on>
-            <sys_id>17f3ff29db9323005357da75ca9619bf</sys_id>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>7aca4722db5323005357da75ca961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-29 17:37:07</sys_updated_on>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>faca4722db5323005357da75ca961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-29 17:37:07</sys_created_on>
-            <sys_id>97f3ff29db9323005357da75ca9619bf</sys_id>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>7eca4722db5323005357da75ca961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-29 17:37:07</sys_updated_on>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-29 17:37:07</sys_created_on>
-            <sys_id>1bf3ff29db9323005357da75ca9619bf</sys_id>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>feca4722db5323005357da75ca961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-29 17:37:07</sys_updated_on>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-29 17:37:07</sys_created_on>
-            <sys_id>9bf3ff29db9323005357da75ca9619bf</sys_id>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>72ca4722db5323005357da75ca961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-29 17:37:07</sys_updated_on>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>approval</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-29 17:37:07</sys_created_on>
-            <sys_id>1ff3ff29db9323005357da75ca9619bf</sys_id>
+            <sys_created_on>2019-02-01 17:11:02</sys_created_on>
+            <sys_id>f2ca4722db5323005357da75ca961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_271208_panomator_requests" sys_domain="global" view="Default view">970f80efdb3123005357da75ca961946</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-29 17:37:07</sys_updated_on>
+            <sys_updated_on>2019-02-01 17:11:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

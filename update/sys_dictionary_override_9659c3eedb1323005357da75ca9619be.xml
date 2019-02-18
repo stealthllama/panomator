@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>closed_at</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_271208_panomator_requests</name>
+        <read_only>true</read_only>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-01 17:04:43</sys_created_on>
+        <sys_id>9659c3eedb1323005357da75ca9619be</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>closed_at</sys_name>
+        <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+        <sys_update_name>sys_dictionary_override_9659c3eedb1323005357da75ca9619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-01 17:04:43</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>
