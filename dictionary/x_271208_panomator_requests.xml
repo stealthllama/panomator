@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="44" type="collection">
+    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="47" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="deny" label="Action" mandatory="true" max_length="40" name="u_action" type="string">
             <choice>
                 <element inactive_on_update="false" label="Deny" sequence="0" value="deny"/>
