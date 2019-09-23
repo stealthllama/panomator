@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="1" type="collection">
-        <element attributes="edge_encryption_enabled=true" choice="1" default="Shared" label="Device Group" mandatory="true" max_length="40" name="rule_devicegroup" type="string">
-            <choice>
-                <element inactive_on_update="false" label="Shared" sequence="0" value="Shared"/>
-                <element inactive_on_update="false" label="Lab Firewalls" sequence="1" value="Lab Firewalls"/>
-            </choice>
-        </element>
         <element attributes="edge_encryption_enabled=true" choice="3" default="deny" label="Action" mandatory="true" max_length="40" name="u_action" type="string">
             <choice>
                 <element inactive_on_update="false" label="Deny" sequence="0" value="deny"/>
@@ -50,6 +44,12 @@
             </choice>
         </element>
         <element label="Requestor" mandatory="true" max_length="32" name="u_requestor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Shared" label="Device Group" mandatory="true" max_length="40" name="u_rule_devicegroup" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Shared" sequence="0" value="Shared"/>
+                <element inactive_on_update="false" label="Lab Firewalls" sequence="1" value="Lab Firewalls"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Rule name" mandatory="true" max_length="40" name="u_rule_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="application-default" label="Service" mandatory="true" max_length="40" name="u_service" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="any" label="Source address" mandatory="true" max_length="40" name="u_src_address" type="string"/>
