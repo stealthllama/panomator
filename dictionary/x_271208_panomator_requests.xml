@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="47" type="collection">
+    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="deny" label="Action" mandatory="true" max_length="40" name="u_action" type="string">
             <choice>
                 <element inactive_on_update="false" label="Deny" sequence="0" value="deny"/>
@@ -25,9 +25,13 @@
         <element attributes="edge_encryption_enabled=true" choice="3" default="any" label="Destination zone" mandatory="true" max_length="40" name="u_dst_zone" type="string">
             <choice>
                 <element inactive_on_update="false" label="any" sequence="0" value="any"/>
-                <element inactive_on_update="false" label="inside" sequence="1" value="inside"/>
-                <element inactive_on_update="false" label="outside" sequence="2" value="outside"/>
-                <element inactive_on_update="false" label="dmz" sequence="3" value="dmz"/>
+                <element inactive="true" inactive_on_update="true" label="inside" sequence="0" value="inside"/>
+                <element inactive_on_update="false" label="corp" sequence="1" value="corp"/>
+                <element inactive="true" inactive_on_update="true" label="dmz" sequence="1" value="dmz"/>
+                <element inactive_on_update="false" label="dev" sequence="2" value="dev"/>
+                <element inactive_on_update="false" label="outside" sequence="3" value="outside"/>
+                <element inactive_on_update="false" label="prod" sequence="4" value="prod"/>
+                <element inactive_on_update="false" label="stage" sequence="5" value="stage"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="3" default="any" label="HIP Profile" mandatory="true" max_length="40" name="u_hip_profile" type="string">
@@ -55,9 +59,13 @@
         <element attributes="edge_encryption_enabled=true" choice="3" default="any" label="Source zone" mandatory="true" max_length="40" name="u_src_zone" type="string">
             <choice>
                 <element inactive_on_update="false" label="any" sequence="0" value="any"/>
-                <element inactive_on_update="false" label="inside" sequence="1" value="inside"/>
-                <element inactive_on_update="false" label="outside" sequence="2" value="outside"/>
-                <element inactive_on_update="false" label="dmz" sequence="3" value="dmz"/>
+                <element inactive="true" inactive_on_update="true" label="inside" sequence="0" value="inside"/>
+                <element inactive_on_update="false" label="corp" sequence="1" value="corp"/>
+                <element inactive="true" inactive_on_update="true" label="dmz" sequence="1" value="dmz"/>
+                <element inactive_on_update="false" label="dev" sequence="2" value="dev"/>
+                <element inactive_on_update="false" label="outside" sequence="3" value="outside"/>
+                <element inactive_on_update="false" label="prod" sequence="4" value="prod"/>
+                <element inactive_on_update="false" label="stage" sequence="5" value="stage"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tag" max_length="40" name="u_tag" type="string">

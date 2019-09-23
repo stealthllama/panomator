@@ -29,22 +29,22 @@
         <oauth2_profile/>
         <protocol_name/>
         <qualified_name>Tower Job Launch [ Tower POST ]</qualified_name>
-        <rest_endpoint>https://10.42.0.42/api/v2/job_templates/10/launch/</rest_endpoint>
+        <rest_endpoint>https://tower.panlabs.org/api/v2/job_templates/7/launch/</rest_endpoint>
         <rest_message display_value="Tower Job Launch">22437199db5323005357da75ca961906</rest_message>
         <sys_class_name>sys_rest_message_fn</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-28 13:44:02</sys_created_on>
         <sys_id>eb057199db5323005357da75ca96191d</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Tower POST</sys_name>
         <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
         <sys_update_name>sys_rest_message_fn_eb057199db5323005357da75ca96191d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-19 15:24:30</sys_updated_on>
+        <sys_updated_on>2019-09-23 01:47:00</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
-        <use_mid_server display_value="midsrv">cc169f4cdb7623005357da75ca961975</use_mid_server>
+        <use_mid_server display_value="midsrv1">a6b0554ddb800010aa3f0d53ca9619f1</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message_fn>
 </record_update>
