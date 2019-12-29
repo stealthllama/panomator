@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Panomator">6f358c63db3123005357da75ca961905</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2019-12-29 20:11:02</sys_created_on>
+        <sys_id>b63adcdddb4200104b6ad1b1ca96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+        <sys_update_name>sys_scope_privilege_b63adcdddb4200104b6ad1b1ca96194c</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2019-12-29 20:11:02</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
