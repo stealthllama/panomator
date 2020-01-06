@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ecc_agent_application">
+    <ecc_agent_application action="INSERT_OR_UPDATE">
+        <default_mid_server display_value="midsrv1">a6b0554ddb800010aa3f0d53ca9619f1</default_mid_server>
+        <included_in_app_all>true</included_in_app_all>
+        <name>Panomator MID Server</name>
+        <sys_class_name>ecc_agent_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 14:18:01</sys_created_on>
+        <sys_id>b6d5587bdb0200104b6ad1b1ca96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Panomator MID Server</sys_name>
+        <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+        <sys_update_name>ecc_agent_application_b6d5587bdb0200104b6ad1b1ca96194a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 14:18:01</sys_updated_on>
+    </ecc_agent_application>
+</record_update>
