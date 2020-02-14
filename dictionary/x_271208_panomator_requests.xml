@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="50" type="collection">
+    <element extends="task" label="Request" max_length="40" name="x_271208_panomator_requests" sizeclass="60" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="deny" label="Action" mandatory="true" max_length="40" name="u_action" type="string">
             <choice>
                 <element inactive_on_update="false" label="Deny" sequence="0" value="deny"/>
@@ -48,6 +48,7 @@
             <choice>
                 <element inactive_on_update="false" label="Shared" sequence="0" value="Shared"/>
                 <element inactive_on_update="false" label="Lab Firewalls" sequence="1" value="Lab Firewalls"/>
+                <element inactive_on_update="false" label="HCA Firewalls" sequence="2" value="HCA Firewalls"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Rule name" mandatory="true" max_length="40" name="u_rule_name" type="string"/>

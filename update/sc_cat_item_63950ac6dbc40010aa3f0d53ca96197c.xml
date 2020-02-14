@@ -3,10 +3,10 @@
         <active>true</active>
         <availability>on_both</availability>
         <billable>false</billable>
-        <category/>
+        <category display_value="Security">38835fefdb5600104b6ad1b1ca9619c7</category>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p>Request a firewall rule change.</p>]]></description>
@@ -46,7 +46,7 @@
         <recurring_price>0</recurring_price>
         <request_method/>
         <roles/>
-        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_catalogs>742ce428d7211100f2d224837e61036d</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <short_description/>
@@ -56,14 +56,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-24 01:52:05</sys_created_on>
         <sys_id>63950ac6dbc40010aa3f0d53ca96197c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Firewall Rule Request</sys_name>
         <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
         <sys_policy/>
         <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
         <sys_update_name>sc_cat_item_63950ac6dbc40010aa3f0d53ca96197c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-24 01:54:56</sys_updated_on>
+        <sys_updated_on>2020-01-18 22:11:03</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
@@ -71,7 +71,7 @@
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
-        <workflow/>
+        <workflow display_value="Firewall Rule Change">86a0f6c0dbd200104b6ad1b1ca9619b9</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=63950ac6dbc40010aa3f0d53ca96197c"/>
     <fx_price action="delete_multiple" query="id=63950ac6dbc40010aa3f0d53ca96197c"/>
