@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">dfa6a9942c1300100c1dbc48b5c9f557</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 20:55:32</sys_created_on>
+        <sys_id>db6cf35bdb01101026cacc3039961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

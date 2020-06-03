@@ -47,7 +47,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-12-29 18:56:12</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
-        <use_mid_server display_value="midsrv1">a6b0554ddb800010aa3f0d53ca9619f1</use_mid_server>
+        <use_mid_server display_value="">a6b0554ddb800010aa3f0d53ca9619f1</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message_fn>
 </record_update>
