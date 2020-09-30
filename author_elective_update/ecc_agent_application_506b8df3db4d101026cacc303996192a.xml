@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ecc_agent_application">
+    <ecc_agent_application action="DELETE">
+        <default_mid_server display_value="midsrv1">262aff97db01101026cacc30399619f0</default_mid_server>
+        <included_in_app_all>true</included_in_app_all>
+        <name>Post to Tower</name>
+        <sys_class_name>ecc_agent_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 21:19:08</sys_created_on>
+        <sys_id>506b8df3db4d101026cacc303996192a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Post to Tower</sys_name>
+        <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+        <sys_update_name>ecc_agent_application_506b8df3db4d101026cacc303996192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 21:30:44</sys_updated_on>
+    </ecc_agent_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Panomator">6f358c63db3123005357da75ca961905</application>
+        <file_path/>
+        <instance_id>870ce02fdbf8fb409df22f17d496193f</instance_id>
+        <instance_name>dev82146</instance_name>
+        <name>ecc_agent_application_506b8df3db4d101026cacc303996192a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ecc_agent_application"><ecc_agent_application action="INSERT_OR_UPDATE"><default_mid_server display_value="midsrv1">262aff97db01101026cacc30399619f0</default_mid_server><included_in_app_all>true</included_in_app_all><name>Post to Tower</name><sys_class_name>ecc_agent_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-03 21:19:08</sys_created_on><sys_id>506b8df3db4d101026cacc303996192a</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Post to Tower</sys_name><sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package><sys_policy/><sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope><sys_update_name>ecc_agent_application_506b8df3db4d101026cacc303996192a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-03 21:30:44</sys_updated_on></ecc_agent_application></record_update>]]></payload>
+        <payload_hash>-1688408938</payload_hash>
+        <record_name>Post to Tower</record_name>
+        <reverted_from/>
+        <source>658c771bdb01101026cacc303996198a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 21:30:44</sys_created_on>
+        <sys_id>701e4d77db4d101026cacc30399619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727c17f5330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 21:30:44</sys_updated_on>
+        <type>MID Server Application</type>
+        <update_guid>b81e4d774d4d10109a0fda13b36121c3</update_guid>
+        <update_guid_history>b81e4d774d4d10109a0fda13b36121c3:-1688408938,7f8c4177774d1010f3b8862078d7974f:1034946185,bd6c4937c84d10108082c3119b2983d6:-1438306897,69cb8537544d1010fe8e9104f54df729:493580476,cb6bcdf34e4d101083fbe622cd477960:-1438306897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Post to Tower">f0e1157bdb4d101026cacc30399619b0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 21:47:24</sys_created_on>
+        <sys_db_object display_value="" name="ecc_agent_application">ecc_agent_application</sys_db_object>
+        <sys_id>0522efe93fa9463c805d3b7b0a63b164</sys_id>
+        <sys_metadata>506b8df3db4d101026cacc303996192a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Post to Tower</sys_name>
+        <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+        <sys_scope_delete display_value="">5050a7006dd046de9270313ba18023a9</sys_scope_delete>
+        <sys_update_name>ecc_agent_application_506b8df3db4d101026cacc303996192a</sys_update_name>
+        <sys_update_version display_value="ecc_agent_application_506b8df3db4d101026cacc303996192a">701e4d77db4d101026cacc30399619c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 21:47:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

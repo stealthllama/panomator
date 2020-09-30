@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="DELETE" field="u_action" table="x_271208_panomator_requests" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="u_action" table="x_271208_panomator_requests" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_action</element>
+            <name>x_271208_panomator_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
+            <sys_id>817c775bdb01101026cacc3039961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_action</sys_name>
+            <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
+            <sys_update_name>sys_choice_x_271208_panomator_requests_u_action</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
+        </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_action</element>
@@ -10,13 +26,13 @@
             <name>x_271208_panomator_requests</name>
             <sequence>0</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 20:55:32</sys_created_on>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>136cf35bdb01101026cacc3039961975</sys_id>
+            <sys_id>61be8955db1323005357da75ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
             <value>deny</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,13 +45,13 @@
             <name>x_271208_panomator_requests</name>
             <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 20:55:32</sys_created_on>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>536cf35bdb01101026cacc3039961975</sys_id>
+            <sys_id>edbe8955db1323005357da75ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
             <value>allow</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -48,13 +64,13 @@
             <name>x_271208_panomator_requests</name>
             <sequence>2</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 20:55:32</sys_created_on>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>936cf35bdb01101026cacc3039961975</sys_id>
+            <sys_id>a9be8955db1323005357da75ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
             <value>drop</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -67,13 +83,13 @@
             <name>x_271208_panomator_requests</name>
             <sequence>3</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 20:55:32</sys_created_on>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d36cf35bdb01101026cacc3039961975</sys_id>
+            <sys_id>65be8955db1323005357da75ca961935</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
             <value>reset client</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -86,13 +102,13 @@
             <name>x_271208_panomator_requests</name>
             <sequence>4</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 20:55:32</sys_created_on>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>176cf35bdb01101026cacc3039961975</sys_id>
+            <sys_id>21be8955db1323005357da75ca961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
             <value>reset server</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -105,75 +121,14 @@
             <name>x_271208_panomator_requests</name>
             <sequence>5</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 20:55:32</sys_created_on>
+            <sys_created_on>2019-01-28 10:56:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>576cf35bdb01101026cacc3039961975</sys_id>
+            <sys_id>a1be8955db1323005357da75ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
+            <sys_updated_on>2019-01-28 10:56:31</sys_updated_on>
             <value>reset both</value>
         </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>u_action</element>
-            <name>x_271208_panomator_requests</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 20:55:32</sys_created_on>
-            <sys_id>5b6cf35bdb01101026cacc3039961975</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>u_action</sys_name>
-            <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
-            <sys_policy/>
-            <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
-            <sys_update_name>sys_choice_x_271208_panomator_requests_u_action</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 20:55:32</sys_updated_on>
-        </sys_choice_set>
     </sys_choice>
-    <sys_update_version action="INSERT_OR_UPDATE">
-        <action>DELETE</action>
-        <application display_value="Panomator">6f358c63db3123005357da75ca961905</application>
-        <file_path/>
-        <instance_id>870ce02fdbf8fb409df22f17d496193f</instance_id>
-        <instance_name>dev82146</instance_name>
-        <name>sys_choice_x_271208_panomator_requests_u_action</name>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_action" table="x_271208_panomator_requests" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_action</element><hint/><inactive>false</inactive><label>Deny</label><language>en</language><name>x_271208_panomator_requests</name><sequence>0</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 20:55:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>136cf35bdb01101026cacc3039961975</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 20:55:32</sys_updated_on><value>deny</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_action</element><hint/><inactive>false</inactive><label>Allow</label><language>en</language><name>x_271208_panomator_requests</name><sequence>1</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 20:55:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>536cf35bdb01101026cacc3039961975</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 20:55:32</sys_updated_on><value>allow</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_action</element><hint/><inactive>false</inactive><label>Drop</label><language>en</language><name>x_271208_panomator_requests</name><sequence>2</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 20:55:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>936cf35bdb01101026cacc3039961975</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 20:55:32</sys_updated_on><value>drop</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_action</element><hint/><inactive>false</inactive><label>Reset client</label><language>en</language><name>x_271208_panomator_requests</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 20:55:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d36cf35bdb01101026cacc3039961975</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 20:55:32</sys_updated_on><value>reset client</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_action</element><hint/><inactive>false</inactive><label>Reset server</label><language>en</language><name>x_271208_panomator_requests</name><sequence>4</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 20:55:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>176cf35bdb01101026cacc3039961975</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 20:55:32</sys_updated_on><value>reset server</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_action</element><hint/><inactive>false</inactive><label>Reset both</label><language>en</language><name>x_271208_panomator_requests</name><sequence>5</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 20:55:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>576cf35bdb01101026cacc3039961975</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 20:55:32</sys_updated_on><value>reset both</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_action</element><name>x_271208_panomator_requests</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 20:55:32</sys_created_on><sys_id>5b6cf35bdb01101026cacc3039961975</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_action</sys_name><sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package><sys_policy/><sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope><sys_update_name>sys_choice_x_271208_panomator_requests_u_action</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 20:55:32</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
-        <payload_hash>-2025560455</payload_hash>
-        <record_name>Request.Action</record_name>
-        <reverted_from/>
-        <source>a6d5cb52db01101026cacc303996196a</source>
-        <source_table>sys_upgrade_history</source_table>
-        <state>previous</state>
-        <sys_created_by/>
-        <sys_created_on>2020-05-30 14:23:09</sys_created_on>
-        <sys_id>857c775bdb01101026cacc3039961953</sys_id>
-        <sys_mod_count/>
-        <sys_recorded_at>17265f70cc80000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
-        <type>Choice list</type>
-        <update_guid>457c775baa0110101b0bcf27371c6f53</update_guid>
-        <update_guid_history>457c775baa0110101b0bcf27371c6f53:-2025560455</update_guid_history>
-    </sys_update_version>
-    <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete/>
-        <sys_class_name>sys_metadata_delete</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-02 20:55:39</sys_created_on>
-        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
-        <sys_id>5b6cf35bdb01101026cacc3039961975</sys_id>
-        <sys_metadata>5b6cf35bdb01101026cacc3039961975</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>u_action</sys_name>
-        <sys_package display_value="Panomator" source="x_271208_panomator">6f358c63db3123005357da75ca961905</sys_package>
-        <sys_parent/>
-        <sys_policy/>
-        <sys_scope display_value="Panomator">6f358c63db3123005357da75ca961905</sys_scope>
-        <sys_scope_delete display_value="">5050a7006dd046de9270313ba18023a9</sys_scope_delete>
-        <sys_update_name>sys_choice_x_271208_panomator_requests_u_action</sys_update_name>
-        <sys_update_version display_value="sys_choice_x_271208_panomator_requests_u_action">857c775bdb01101026cacc3039961953</sys_update_version>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-02 20:55:39</sys_updated_on>
-    </sys_metadata_delete>
 </record_update>
